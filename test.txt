@@ -1,1 +1,2 @@
 Hello, this is test file in feature branch
+and is updated
